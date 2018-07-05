@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-plugin-merge",
+  "version": "0.1.0",
+  "description": "Mongoose plugin that handles update by merge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangkaiyulw/mongoose-plugin-merge.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangkaiyulw/mongoose-plugin-merge/issues"
+  },
+  "homepage": "https://github.com/zhangkaiyulw/mongoose-plugin-merge#readme",
+  "dependencies": {
+    "lodash.merge": "^4.6.1"
+  }
+}
